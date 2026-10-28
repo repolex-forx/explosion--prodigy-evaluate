@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-evaluate/commit/f7408b8be97863c4bcf6245d2fbb9e3d7293c3fa",
       "git:hexsha": "f7408b8be97863c4bcf6245d2fbb9e3d7293c3fa",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.0",
+      "repolex:parsedAt": "2026-10-28T12:10:20.716594+00:00"
     }
   ]
 }
