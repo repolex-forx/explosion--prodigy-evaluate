@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "prodigy-evaluate",
+  "versions": [
+    {
+      "commit": "f7408b8be97863c4bcf6245d2fbb9e3d7293c3fa",
+      "tag": "v0.1.0",
+      "parsed_at": "2026-10-28T12:10:20.717017+00:00"
+    }
+  ]
+}
