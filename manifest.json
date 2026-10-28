@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "prodigy-evaluate",
+  "versions": [
+    {
+      "commit": "f7408b8be97863c4bcf6245d2fbb9e3d7293c3fa",
+      "parsed_at": "2026-10-28T12:07:47.143300+00:00",
+      "tag": "v0.1.0",
+      "filetree": "filetree/f7408b8be97863c4bcf6245d2fbb9e3d7293c3fa.nq.gz",
+      "blobs": [
+        "blob/9318dc888d5a5cf458a7ab97e7af92379567f85f.nq.gz",
+        "blob/4817ad718922b3e11a72d9db77be25c154ae4b97.nq.gz",
+        "blob/f1b2847b7c532d770b67cdfca67f4c683cef8c4d.nq.gz",
+        "blob/8640bfdb8dd12b641e346b5bc0d0824011a8463b.nq.gz",
+        "blob/f037108b68767269598b56dce05bb8dbaaa26025.nq.gz",
+        "blob/bf220e0700d6ba26d3ab89d87674118993ed21e8.nq.gz",
+        "blob/5852b7a743dc4cc91efde9274a41500c117a0bf3.nq.gz",
+        "blob/9398e3fcfbfa18b5356e466c67eeaebe664254c5.nq.gz",
+        "blob/60722de934722d06a447633fcaa42bf269ca7ab4.nq.gz",
+        "blob/176016ab7df28d24d50781a88d117e763e122904.nq.gz",
+        "blob/b4ebf77f0ba40523270c8fd7f8a8121a8a29595b.nq.gz",
+        "blob/fad6cab758fd62e40cfc75e286af6ea46687f7ee.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
